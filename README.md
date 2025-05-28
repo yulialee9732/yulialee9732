@@ -1,9 +1,11 @@
 ### 👋 Hi, I'm Seungyoun
 
+🎓 I graduated from the University of Toledo with a degree in **Computer Science and Engineering Technology**.  
+🎓 I will be starting my **Master’s in Computer Science** at **UNC Chapel Hill** in **Fall 2026**.
+
 - 🧠 Currently learning **Artificial Intelligence with Python**
 - 💻 Background in **Web Development**
 - 🔍 Exploring **Machine Learning**, **Data Science**, and **Robotics**
-
 
 
 ## 🌐 Socials:
